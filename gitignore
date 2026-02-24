@@ -1,0 +1,9 @@
+# Firebase / environment config — never commit real keys
+firebase-config.js
+.env
+.env.local
+.env.production
+
+# OS junk
+.DS_Store
+Thumbs.db
