@@ -16,7 +16,6 @@ Number Duel is a fast-paced player-vs-player number guessing game featuring comp
 6. Copy your config object
 
 ### 2. Add your Firebase config
-2. Add your Firebase config
 Open `index.html` and find this block near the top of the `<script>` tag:
 
 ```js
