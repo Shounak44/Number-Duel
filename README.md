@@ -30,7 +30,7 @@ const app = initializeApp({
 });
 ```
 
-eplace each placeholder with your real values from Firebase Console.
+Replace each placeholder with your real values from Firebase Console.
 
 ### 3. Run
 Just upload `index.html` in netlify — you're good to go.
